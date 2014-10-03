@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/davelugg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://davelugg.net
+  * I am davelugg (https://keybase.io/davelugg) on keybase.
+  * I have a public key with fingerprint 76CC D251 AF34 DF92 491D  4DBD 2F49 1A9F 3938 0912
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "76ccd251af34df92491d4dbd2f491a9f39380912",
+            "host": "keybase.io",
+            "key_id": "2F491A9F39380912",
+            "uid": "d4450515a1dc7494804ffe1020dab900",
+            "username": "davelugg"
+        },
+        "merkle_root": {
+            "ctime": 1412368222,
+            "hash": "e3081cd39c07b58004564f841d074893bce3c70e369e490eb655eb05ce59386b4e9e5458afd689d78d3676ce8273449df6f96938edeec83820b4cd85a9f4357a",
+            "seqno": 71153
+        },
+        "service": {
+            "hostname": "davelugg.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412368478,
+    "expire_in": 157680000,
+    "prev": "0b5c0320123941bb41479f2b7954f4c8c091304a23a4f7daab31aff9a8a82d4e",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.7 (MingW32)
+
+owFdkntQFVUcxwEVESTT8G2TrVZ38Ho5u3v2dXmYj3AYnLREkyG5s7vn7GXlci/u
+vYDAQIwjKpqMaYA0GI1QqORFKKxEwAJmaMhM0XFwNInJHLkpD83IJNolp7T/zuNz
+fuf7/f5++0Mn+AX4R8TNqxT4KTP8u25LfgkRQcm5hORC2YQ1l5AdKnZ6jJVTTMOE
+lUjF2ZLoxhbVtdDpQtiyxb3wMWMmMrHmVl1OnQIWzkIReWYDNx4rqtOOtXRNNWoR
+HCvLiGJIUaEhUgQKCiSCSEKUoq9EQaEFmgcCSeklU1xuz1O/EuM1bSrST6lYnV8u
+xD7BZ4xfIAgZwJCMSCKZgwLkAVQUTAIKIFESADBAN9YeW0JiJnZk2O2G3jSspTqw
+TXO5xk3LHtVASEhSNMtTFKUrEt0p+iNMA56UES3IgJMYHgDIsFDhIYkAB3mBlmRM
+yxzANCtgKAAssQyDJcDImNHVshLEAmYgw4sKYnkBcTyiWT0XzFMcDaGAFFYRWJ3E
+CGOZp3kKSFBGPKPHA2mGE3ULbrzV6SKsHEkydJ6x1TJVGRuyjdT+Z87ixEaL0jWX
+xyW7HPpNiseTbjU8e7LTDTILSzb3p/8UsUmqE+k9e7KppI4+nQfkeDOBt6WrGrap
+BsFwrJ4EAMY/ONOYA4mRAU0BHRcgKUmQhJygUBInMFCBMi/rbaMBFClahAqHRFGi
+9alQBJEXeQpB/J9LRtcp2vWSbtXuFD0ZGibyigJmTpg0PrD/TnDAzl3T/mJO4L6c
+A58Xd9yMOurd92VL2UCPEPf7u5HX1poPdZqWNl+u/22NNz6Uaz+9PHnlKHuyKijx
+xqE+mMNegrNfLRM3d5ekxK/XYqJzar6vealxDP6xynowploJ/PpWsPTNtFfmd3R1
+Zfie7a0YvdpQsv+G7ZIpzvRacSIKefBd0JINvkD3mN/GD7sbKj6rKF+2rqPcOvm5
+6Im+eZbE8lNL5030vdB4Pc5++dL9oMawiv4LezYU75h7N6ftYytAYLUj4Vxx2MHF
+i9Qr9Vkhnd106cC34qzoYfPr58SRA+xXMxuPtb4IxyZ1Wmv7+1tD+/I3JrLdXT0m
+S6xya2jfJ3cutNSWkCPBjt7B6xFLM88cyw2uORtawEdmTTlaPZA5ZxMx/U7DrAUr
+VwyNbC9MOqXbOtx2fOgde4OjYN3iLeZdL6tvVy3acfuZtKljM9b+FNHt67nZrm6K
+2jpcOFzaun332bl186+ga+WHw3tC3jh+Pnxga47Jmy9W/bDlbt3+qN73PXUofmr4
+qo725UcrLxSHFxUmx4RefLQkcUWPVpy6prTg9PmRsqTm55M6EgJ3L7s4Z/ZHRzYH
+zm7LD9vADIYdrvZfP/hmRf+Jh94zftOi6puOvHd/VaTJu/dek1a7oNZ/m3/czmzk
+q29LB1/8OP2D5qLFkZX5o01dD/aa32qxn1ztfTjZfa9h08+//Hr10Z81fwM=
+=Ydb7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davelugg
+
+==================================================================
